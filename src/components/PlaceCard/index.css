@@ -1,0 +1,28 @@
+.each-card-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  width: 30%;
+}
+.place-image {
+  /* width: 100px; */
+}
+.content-container {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.place-heading {
+  color: #475569;
+}
+.place-description {
+  color: #64748b;
+}
+ul {
+  padding: 0;
+  margin: 0;
+}
+li {
+  padding: 0;
+  margin: 0;
+}
